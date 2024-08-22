@@ -1,0 +1,15 @@
+.con{
+    background-color: #C73E1D;
+    list-style-type: none;
+    border-radius: 55px;
+    color: #FCF8FF;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+
+#image-container, h1{
+    text-align: center;
+    padding: 5px 5px;
+     
+}

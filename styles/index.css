@@ -1,0 +1,118 @@
+#main{
+    display: flex;
+    list-style-type: none;
+    color: #FCF8FF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#list li{
+    justify-content: center;
+    list-style-type: none;
+    display: flex;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#tag, a{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #FE6847;
+    border-spacing: 0px;
+    text-decoration: none;
+    
+}
+
+.donate {
+   color: white;
+   background-color: rgb(0, 50, 133);
+   padding: 5px;   
+   border-radius: 20px;
+   cursor: pointer;
+   
+}
+
+#tag .donate {
+    margin-left: 70px; 
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    object-fit: contain;
+    
+}
+
+#image-container, h1{
+    text-align: center;
+    padding: 3px 3px;
+    
+}
+
+.Welcome{
+    background-color: #C73E1D;
+    list-style-type: none;
+    border-radius: 20px;
+    color: #FCF8FF;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+#genesis-con, h1{
+    text-align: center;
+    padding: 3px 3px;
+    margin-top: 0px;
+
+       
+}
+.gen{
+    list-style-type: none;
+    background-color: #C73E1D;
+    list-style-type: none;
+    display: inline;
+    color: #FCF8FF;
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+ 
+    
+}
+
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    text-align: justify;
+    text-indent: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+   line-height: 1.9;
+
+
+}   
+
+#div3 h1 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: underline;
+    color: #C73E1D;
+    font-display: initial;
+}
+
+
+.logo{
+    size: 150px;
+    margin: auto;
+
+}
+
+
+
+
